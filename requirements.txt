@@ -1,0 +1,10 @@
+ipython==8.12.3
+langchain_community==0.3.16
+langchain_core==0.3.33
+langchain_openai==0.3.3
+langgraph==0.2.69
+openai==1.61.0
+python-dotenv==1.0.1
+langgraph-checkpoint-sqlite==2.0.3
+pydantic==2.9.2
+pygraphviz
