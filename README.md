@@ -28,6 +28,7 @@ This project implements a multi-agent system for generating, critiquing, and ref
 3. Run the main script
    python main.py
 
+![Graph](https://github.com/user-attachments/assets/31019a4a-63ba-4b15-9226-59d66198cc31)
 
 Usage
 The system is designed to process tasks iteratively. You can define a task and specify the maximum number of revisions. The agents will collaborate to generate, critique, and refine the content until the desired quality is achieved.
