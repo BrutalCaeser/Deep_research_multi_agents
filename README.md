@@ -1,4 +1,4 @@
-# Kairon Deep Research Agent
+# Deep Research Multi-Agent
 
 This project implements a multi-agent system for generating, critiquing, and refining research content using advanced AI models. The system leverages tools like GROQ, OpenAI, and Tavily to create a collaborative workflow for research and content generation.
 
