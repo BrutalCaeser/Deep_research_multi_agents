@@ -11,8 +11,7 @@ This project implements a multi-agent system for generating, critiquing, and ref
 - **Iterative Refinement**: Revises content based on critique and additional research.
 
 ## Project Structure
-- **`.env`**: Contains API keys for GROQ, OpenAI, and Tavily.
-- **`agents.py`**: Placeholder for agent-specific logic (currently empty).
+- **`.env`**: Contains API keys for GROQ, OpenAI, and Tavily. To be provided by the user.
 - **`changes.txt`**: Notes about recent changes in the project.
 - **`main.py`**: Core implementation of the multi-agent system.
 - **`requirements.txt`**: Python dependencies required for the project.
